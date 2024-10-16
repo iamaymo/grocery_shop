@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="avocado.png" alt="Logo" height="80">
+    <img src="[avocado.png](https://github.com/iamaymo/grocery_shop/blob/main/grocery_shop/readme/avocado.png)" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Grocery Shop</h3>
@@ -9,7 +9,7 @@
   <p align="center">
     Flutter template
     <br />
-    <a href="https://github.com/iamaymo/Leom-Page"><strong>Explore the template files »</strong> <i class="fa-brands fa-github"></i></a>
+    <a href="https://github.com/iamaymo/grocery_shop"><strong>Explore the template files »</strong> <i class="fa-brands fa-github"></i></a>
     <br />
     <br />
   </p>
@@ -43,7 +43,7 @@ This Flutter-based mobile application is designed to simulate a grocery delivery
 ## How to Use it
 
 <p align="center">
-  <img src="IMG1.png" alt="Logo">
+  <img src="[IMG1.png](https://github.com/iamaymo/grocery_shop/blob/main/grocery_shop/readme/IMG1.png)" alt="Logo">
 </p>
 ## Contact
 
