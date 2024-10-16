@@ -45,6 +45,7 @@ This Flutter-based mobile application is designed to simulate a grocery delivery
 <p align="center">
   <img src="https://github.com/iamaymo/grocery_shop/blob/main/readme/IMG1.png" alt="Logo">
 </p>
+
 ## Contact
 
 Ayman Al Qadasi - [@iamaymo](https://t.me/iamaymo) - aymanqadasi89@gmail.com
