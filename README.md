@@ -7,7 +7,7 @@
   <h3 align="center">Grocery Shop</h3>
 
   <p align="center">
-    Flutter Prject
+    Flutter Project
     <br />
     <a href="https://github.com/iamaymo/grocery_shop"><strong>Explore the template files »</strong> <i class="fa-brands fa-github"></i></a>
     <br />
